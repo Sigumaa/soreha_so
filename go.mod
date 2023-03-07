@@ -1,3 +1,3 @@
-module github.com/Sigumaa/soreha-so
+module github.com/Sigumaa/soreha_so
 
 go 1.20
